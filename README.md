@@ -16,8 +16,24 @@
 ### rust
 
 <h1>
-  <a href="https://github.com/Jordan-Gilliam/se7en"><img width="100" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/rust-logo.png" alt="rust logo"></a>
+  <a href="https://github.com/Jordan-Gilliam/se7en/rust"><img width="100" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/rust-logo.png" alt="rust logo"></a>
 </h1>
+
+### solidity
+
+### fe
+
+<h1>
+  <a href="https://github.com/Jordan-Gilliam/se7en"><img width="100" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/fe-logo.svg" alt="rust logo"></a>
+</h1>
+
+### python
+
+### go
+
+### elixir
+
+### wasm
 
 > go low
 
